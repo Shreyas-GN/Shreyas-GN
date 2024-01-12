@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shreyasgudde007@gmail.com**
 
-- 📄 Know about my experiences [https://shreyasgudde007.hackerresume.io/31b25f02-4501-46d1-9eb9-cf7c6f75b542](https://shreyasgudde007.hackerresume.io/31b25f02-4501-46d1-9eb9-cf7c6f75b542)
+- 📄 Know about my experiences **http://bit.ly/Shreyas-GN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
