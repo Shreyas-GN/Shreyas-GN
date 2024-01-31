@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SHREYAS GN</h1>
 <h3 align="center">MCA Graduate |Python & Java Enthusiast | Eager to Contribute to Innovative IT Solutions.</h3>
 
-- 🔭 I’m currently working on **CodeAlpha**
+- 🔭 I’m currently working on **CodersCave**
 
 - 🌱 I’m currently learning **Python,Java,C++,SQL,Web Development**
 
@@ -10,8 +10,6 @@
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **shreyasgudde007@gmail.com**
-
-- 📄 Know about my experiences **https://shreyasgudde007.hackerresume.io/31b25f02-4501-46d1-9eb9-cf7c6f75b542**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
