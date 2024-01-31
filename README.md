@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SHREYAS GN</h1>
 <h3 align="center">MCA Graduate |Python & Java Enthusiast | Eager to Contribute to Innovative IT Solutions.</h3>
 
-- 🔭 I’m currently working on **CodersCave**
+- 🔭 I’m currently working as Python Developer in **CodersCave**
 
 - 🌱 I’m currently learning **Python,Java,C++,SQL,Web Development**
 
