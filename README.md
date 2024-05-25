@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SHREYAS GN</h1>
-<h3 align="center">MCA Graduate |Python & Java Enthusiast | Eager to Contribute to Innovative IT Solutions.</h3>
+<h3 align="center">MCA Graduate |Python Enthusiast | Eager to Contribute to Innovative IT Solutions.</h3>
 
 - 🔭 I’m currently working as Python Developer in **CodersCave**
 
-- 🌱 I’m currently learning **Python,Java,C++,SQL,Web Development**
+- 🌱 I’m currently learning **Python, software development, Data Structures, Algorithms, Systems development life cycle, Application programming interface, Git, Linux, Computer Networking**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
