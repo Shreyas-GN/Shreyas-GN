@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm SHREYAS GN</h1>
-<h3 align="center">MCA Graduate |Python Enthusiast | Eager to Contribute to Innovative IT Solutions.</h3>
+<h3 align="center">MCA Graduate | Backend Developer | Ex Intern - CodersCave | Python Enthusiast | Eager to Contribute to Innovative IT Solutions.</h3>
 
-- 🔭 I’m currently working as Python Developer in **CodersCave**
+- 🔭 I’m a Back-end Software Developer
 
-- 🌱 I’m currently learning **Python, software development, Data Structures, Algorithms, Systems development life cycle, Application programming interface, Git, Linux, Computer Networking**
+- 🌱 I’m currently learning **I'm a software engineer with experience in Python, back-end development, and cloud technologies like AWS and Kubernetes. I specialize in building scalable applications, optimizing performance, and designing APIs. My skills include JavaScript, Django, Flask, REST API, and database management. I’m passionate about solving complex problems and continuously learning new technologies. Currently open to roles in Software Engineering, cloud computing, and back-end engineering.*
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **shreyasgudde007@gmail.com**
+- 📫 How to reach me **shreyasgn@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
