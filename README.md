@@ -3,7 +3,7 @@
 
 - 🔭 I’m a Back-end Software Developer
 
-- 🌱 **I'm a software engineer with experience in Python, back-end development, and cloud technologies like AWS and Kubernetes. I specialize in building scalable applications, optimizing performance, and designing APIs. My skills include JavaScript, Django, Flask, REST API, and database management. I’m passionate about solving complex problems and continuously learning new technologies. Currently open to roles in Software Engineering, cloud computing, and back-end engineering.*
+- 🌱 *I'm a software engineer with experience in Python, back-end development, and cloud technologies like AWS and Kubernetes. I specialize in building scalable applications, optimizing performance, and designing APIs. My skills include JavaScript, Django, Flask, REST API, and database management. I’m passionate about solving complex problems and continuously learning new technologies. Currently open to roles in Software Engineering, cloud computing, and back-end engineering.*
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
