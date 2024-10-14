@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHREYAS GN</h1>
-<h3 align="center">MCA Graduate | Backend Developer | Ex Intern - CodersCave | Python Enthusiast | Eager to Contribute to Innovative IT Solutions.</h3>
+<h3 align="center">Opne Source COntributor | Backend Developer | Ex Intern - CodersCave | Python Enthusiast | Eager to Contribute to Innovative IT Solutions.</h3>
 
 - 🔭 I’m a Back-end Software Developer
 
