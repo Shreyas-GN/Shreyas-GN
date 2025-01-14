@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SHREYAS GN</h1>
 <h3 align="center">Open Source Contributor | Backend Developer | Ex Intern - CodersCave | Python Enthusiast | Eager to Contribute to Innovative IT Solutions.</h3>
 
-- 🔭 I’m a Back-end Engineer
+- 🔭 I’m a Software Developer
 
-- 🌱 *I'm a software engineer with experience in Python, back-end development, and cloud technologies like AWS and Kubernetes. I specialize in building scalable applications, optimizing performance, and designing APIs. My skills include JavaScript, Django, Flask, REST API, and database management. I’m passionate about solving complex problems and continuously learning new technologies. Currently open to roles in Software Engineering, cloud computing, and back-end engineering.*
+- 🌱 *I'm a software Developer with experience in Python, back-end development, and cloud technologies like AWS and Kubernetes. I specialize in building scalable applications, optimizing performance, and designing APIs. My skills include Python, Django, Flask, REST API, Fast-API and database management. I’m passionate about solving complex problems and continuously learning new technologies. Currently open to roles in Software Developer, Cloud Computing, and back-end engineering.*
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/shreyas-gn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shreyas-gn" height="30" width="40" /></a>
-<a href="https://instagram.com/shreyxs.for.sure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyxs._hegde" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/shreyasgudde007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/shreyasgudde007" height="30" width="40" /></a>
 </p>
 
