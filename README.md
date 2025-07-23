@@ -1,11 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Shreyas GN</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyas-gn" alt="shreyas-gn" /></a> </p>
 
-- 🔭 I’m currently working on [Smart-Banc](https://smart-banc-flow.lovable.app/)
-
-- 🤝 I’m looking for help with [Smart-Banc](https://smart-banc-flow.lovable.app/)
+- 🔭 I’m currently working as Freelancer
 
 - 📫 How to reach me **shreyasgn@icloud.com**
 
