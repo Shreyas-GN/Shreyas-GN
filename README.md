@@ -8,13 +8,19 @@
 ---
 
 ### 👨‍💻 About Me  
-I design and build complete web applications with a focus on backend systems, reliability, and clean architecture.  
-I enjoy turning ideas into production-ready products with thoughtful design, structured APIs, and efficient data flows.
+Instead of creating demos, I create web applications that function like actual products.  My areas of interest are scalable APIs, transparent architecture, backend systems, and solid, purposeful frontends.  
+ I like to create data models, troubleshoot distributed behavior, improve performance bottlenecks, and transform abstract concepts into functional software.
+ Reliable engineering, consistent behavior, and sound technological choices are more important to me than "stack lists."
 
 - 🔭 Currently working as a **Freelance Software Engineer**  
 - 📫 Reach me at **shreyasgn@icloud.com**  
-- 🚀 Interested in Software engineering, system design, scalable web apps, and product-driven development. 
 
+### What I Work On
+- Full-stack web apps with production-style structure and deployment.  
+- Backend services designed around clear API contracts and maintainable data flow.  
+- Real-time features using WebSockets and event-driven patterns.  
+- Data modeling, SQL optimization, caching, and request-level performance tuning. 
+- Systems that log, measure, and explain how users actually behave.  
 ---
 
 ### 🌐 Connect With Me  
