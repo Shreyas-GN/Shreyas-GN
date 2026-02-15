@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreyas GN</h1>
 <h3 align="center">Software Engineer• India</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyas-gn&margin-w=10" alt="shreyas-gn" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me  
@@ -13,7 +9,7 @@ Instead of creating demos, I create web applications that function like actual p
  Reliable engineering, consistent behavior, and sound technological choices are more important to me than "stack lists."
 
 - 🔭 Currently working as a **Freelance Software Engineer**  
-- 📫 Reach me at **shreyasgn@icloud.com**  
+- 📫 Reach me at **shreyasgn11@outlook.com**  
 
 ### What I Work On
 - Full-stack web apps with production-style structure and deployment.  
