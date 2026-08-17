@@ -1,18 +1,33 @@
-# Hi, I'm Shreyas GN 
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=shreyas-gn&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=shreyas-gn&theme=github-dark" alt="Shreyas GN profile hero" /></picture>
+</p>
 
-**Backend Developer | Python • FastAPI • PostgreSQL • AWS**
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=shreyas-gn&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/about?username=shreyas-gn&theme=github-dark" alt="About Shreyas GN" /></picture>
+</p>
 
-I architect scalable backend systems, automate complex workflows, and build data-heavy APIs. I focus on database optimization, clean system design, and reliable cloud deployments.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,python,javascript,ruby&perline=8&theme=dark" alt="Selected language and technology logos" />
+</p>
 
-### 💻 Engineering Focus
-*   **Backend Architecture:** Python, FastAPI, Django REST Framework, Node.js
-*   **Data & Infrastructure:** PostgreSQL, MongoDB, Redis, Docker, AWS (EC2, Lambda)
-*   **System Design:** Event-driven automation, RESTful API design, concurrent transaction handling (ACID)
+## 📊 GitHub Stats
 
-### 🚀 Featured Systems
-*   **BloodReach:** Real-time emergency coordination backend (FastAPI, PostgreSQL, Docker)
-*   **Gatherly:** Serverless workflow pipeline (AWS Lambda, n8n, MongoDB)
-*   **PlaceFlow:** Placement operations SaaS (Next.js, Python, Supabase)
-*   **Transaction Simulator:** Concurrency control & race-condition simulator (Optimistic/Pessimistic locking)
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=shreyas-gn&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=shreyas-gn&theme=github-dark" alt="GitHub Stats" /></picture>
+</p>
 
-📫 **Connect with me:** (https://www.linkedin.com/in/shreyas-gn/) | shreyasgn11@outlook.com
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=shreyas-gn&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=shreyas-gn&theme=github-dark" alt="shreyas-gn featured projects" /></picture>
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=shreyas-gn&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=shreyas-gn&theme=github-dark" alt="shreyas-gn social links" /></picture>
+</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyas-gn)
+
+---
+
+<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
