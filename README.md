@@ -1,184 +1,193 @@
-**<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HERO SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+ <div align="center">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:06B6D4&height=220&section=header&text=Shreyas%20GN&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Builder&descSize=17&descAlignY=60&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:6366F1,50:8B5CF6,100:06B6D4&text=SHREYAS%20GN&fontSize=65&fontColor=ffffff&fontAlignY=42&desc=BACKEND%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20AI%20BUILDER&descAlignY=62&descSize=13&animation=fadeIn"/>
 
 <a href="https://github.com/Shreyas-GN">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Shreyas+%F0%9F%91%8B;I+build+software+products+%F0%9F%9A%80;Backend+Engineering+%7C+Python+%7C+AI;Turning+ideas+into+working+software+%E2%9C%A8" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+software+that+solves+problems;Backend+Engineering+%7C+Python+%7C+AI;Exploring+systems%2C+architecture+%26+technology" alt="Introduction"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/Shreyas-GN">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/Shreyas-GN"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=Shreyas-GN&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-<!-- ABOUT ME -->
+<h2>
+<img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="25" align="center" alt=""/>
+&nbsp; About Me
+</h2>
 
-## 👨‍💻 About Me
+Backend and full-stack developer interested in building useful software products, reliable APIs, and scalable application architectures.
 
-```python
-class Shreyas:
-    def __init__(self):
-        self.role = "Backend & Full-Stack Developer"
-        self.education = "MCA, 2024"
-        self.languages = ["Python", "JavaScript", "TypeScript", "SQL"]
-        self.interests = [
-            "Backend Engineering",
-            "System Design",
-            "Artificial Intelligence",
-            "SaaS Products",
-            "Open Source"
-        ]
+I enjoy turning complex problems into practical software — from backend systems and database engineering to SaaS platforms and AI-powered applications.
 
-    def currently_doing(self):
-        return "Building products and exploring better ways to engineer software."
-
-me = Shreyas()
-```
-
-- 🚀 Building practical software products and SaaS applications.
-- ⚙️ Interested in backend architecture, APIs and database engineering.
-- 🧠 Exploring AI engineering and intelligent applications.
-- 🛠️ Love experimenting with technologies and turning ideas into products.
-- 🌱 Constantly learning, building and improving.
+- Building and experimenting with software products.
+- Interested in backend architecture and system design.
+- Exploring artificial intelligence and developer tools.
+- Learning by designing, building, and shipping.
 
 ---
 
-## 🧰 Tech Arsenal
+<h2>
+<img src="https://img.icons8.com/fluency/48/code.png" width="25" align="center" alt=""/>
+&nbsp; Technology Stack
+</h2>
 
 <div align="center">
 
-### Languages
+**Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,ruby,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,ruby,html,css&theme=dark"/>
 
-### Backend & Frameworks
+**Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=django,fastapi,rails,nodejs,react,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=django,fastapi,rails,nodejs,react,nextjs&theme=dark"/>
 
-### Databases & Infrastructure
+**Databases & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,redis,docker,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,redis,docker,nginx&theme=dark"/>
 
-### Tools & Platforms
+**Development Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,linux,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode,postman&theme=dark"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<h2>
+<img src="https://img.icons8.com/fluency/48/layers.png" width="25" align="center" alt=""/>
+&nbsp; Featured Projects
+</h2>
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🩸 Blood Axis
-**Emergency Blood Coordination Platform**
+<h3>Blood Axis</h3>
 
 <a href="https://github.com/Shreyas-GN/Blood-Axis">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-Connecting patients, hospitals and blood donors through intelligent coordination and matching workflows.
+An emergency blood coordination platform connecting patients, hospitals, and donors through intelligent matching and coordination workflows.
+
+**Technologies**
 
 <img src="https://skillicons.dev/icons?i=nextjs,django,fastapi,supabase,postgres&theme=dark"/>
 
-<br/><br/>
+</td>
+<td width="50%" valign="top">
 
-### ❄️ SubZero
-**Subscription Management SaaS**
+<h3>SubZero</h3>
 
 <a href="https://github.com/Shreyas-GN/SubZero">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-A subscription management platform exploring automated reminders, background processing and reliable recurring workflows.
+A subscription management SaaS exploring recurring workflows, automated reminders, background processing, and reliable job execution.
+
+**Technologies**
 
 <img src="https://skillicons.dev/icons?i=ruby,rails,react,postgres,redis,docker&theme=dark"/>
 
-<br/><br/>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-### 🎓 PlaceFlow
-**Campus Placement Management SaaS**
+<h3>PlaceFlow</h3>
 
 <a href="https://github.com/Shreyas-GN/PlaceFlow">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-A platform designed to streamline campus recruitment through automated eligibility filtering and placement workflows.
+A campus placement management SaaS designed to streamline recruitment through automated eligibility filtering, student applications, and placement workflows.
+
+**Technologies**
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,react,postgres,redis,docker&theme=dark"/>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+<h2>
+<img src="https://img.icons8.com/fluency/48/combo-chart.png" width="25" align="center" alt=""/>
+&nbsp; GitHub Analytics
+</h2>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shreyas-GN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=FFFFFF&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shreyas-GN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=FFFFFF"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-GN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-GN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF"/>
 
 <br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=Shreyas-GN&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=Shreyas-GN&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Journey
+<h2>
+<img src="https://img.icons8.com/fluency/48/compass.png" width="25" align="center" alt=""/>
+&nbsp; Areas of Interest
+</h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Shreyas-GN/Shreyas-GN/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+<img src="https://img.shields.io/badge/Backend_Architecture-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SaaS_Products-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Developer_Tools-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open_Source-238636?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🎯 Beyond Code
+<h2>
+<img src="https://img.icons8.com/fluency/48/graduation-cap.png" width="25" align="center" alt=""/>
+&nbsp; Education & Experience
+</h2>
 
-<div align="center">
+**Master of Computer Applications (MCA)**
 
-| 🧠 Interests | 🚀 Exploring |
-|:---:|:---:|
-| System Design | Scalable Applications |
-| Artificial Intelligence | AI-powered Products |
-| Psychology | Human Behaviour |
-| Entrepreneurship | SaaS & Startups |
-| Investing | Value Investing |
+2024
 
-</div>
+**Python Developer Intern — CodersCave**
+
+Python development and backend engineering experience.
 
 ---
 
-## 🤝 Let's Connect
+<h2>
+<img src="https://img.icons8.com/fluency/48/conference-call.png" width="25" align="center" alt=""/>
+&nbsp; Connect With Me
+</h2>
 
 <div align="center">
 
 <a href="https://github.com/Shreyas-GN">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-**Have an interesting idea or want to build something together?**
+Building products, exploring technology, and learning through engineering.
 
-Feel free to explore my repositories and connect!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:06B6D4&height=110&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6366F1,50:8B5CF6,100:06B6D4"/>
 
 </div>
-**
