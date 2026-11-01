@@ -1,4 +1,4 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
+**<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         HERO SECTION                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -181,3 +181,4 @@ Feel free to explore my repositories and connect!
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:06B6D4&height=110&section=footer"/>
 
 </div>
+**
