@@ -23,7 +23,7 @@
 
 Backend and full-stack developer interested in building useful software products, reliable APIs, and scalable application architectures.
 
-I enjoy turning complex problems into practical software — from backend systems and database engineering to SaaS platforms and AI-powered applications.
+I enjoy turning complex problems into practical software from backend systems and database engineering to SaaS platforms and AI-powered applications.
 
 - Building and experimenting with software products.
 - Interested in backend architecture and system design.
