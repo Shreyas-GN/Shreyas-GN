@@ -1,15 +1,13 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:6366F1,50:8B5CF6,100:06B6D4&text=SHREYAS%20GN&fontSize=65&fontColor=ffffff&fontAlignY=42&desc=BACKEND%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20AI%20BUILDER&descAlignY=62&descSize=13&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:6366F1,50:8B5CF6,100:06B6D4&text=SHREYAS%20GN&fontSize=65&fontColor=ffffff&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%7C%20PYTHON%20%7C%20AI%20BUILDER&descAlignY=62&descSize=15&animation=fadeIn"/>
 
-<a href="https://github.com/Shreyas-GN">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+software+that+solves+problems;Backend+Engineering+%7C+Python+%7C+AI;Exploring+systems%2C+architecture+%26+technology" alt="Introduction"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+software+products.;Python-powered+backend+engineering.;Full-stack+development+%7C+AI+applications.;Turning+ideas+into+working+software." alt="Introduction"/>
 
 <br/>
 
 <a href="https://github.com/Shreyas-GN"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=Shreyas-GN&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 
 </div>
@@ -21,14 +19,13 @@
 &nbsp; About Me
 </h2>
 
-Backend and full-stack developer interested in building useful software products, reliable APIs, and scalable application architectures.
+I'm Shreyas — a **Full-Stack Developer, Python-focused Engineer, and AI Builder.**
 
-I enjoy turning complex problems into practical software from backend systems and database engineering to SaaS platforms and AI-powered applications.
+I build end-to-end software products, combining modern frontend experiences with Python-powered backend systems and AI capabilities.
 
-- Building and experimenting with software products.
-- Interested in backend architecture and system design.
-- Exploring artificial intelligence and developer tools.
-- Learning by designing, building, and shipping.
+From designing APIs and database architectures to developing SaaS applications and integrating AI into real-world products, I work across the complete software development lifecycle.
+
+My work sits at the intersection of **software engineering, product development, and artificial intelligence.**
 
 ---
 
@@ -43,9 +40,13 @@ I enjoy turning complex problems into practical software from backend systems an
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,ruby,html,css&theme=dark"/>
 
-**Frameworks & Libraries**
+**Frontend Development**
 
-<img src="https://skillicons.dev/icons?i=django,fastapi,rails,nodejs,react,nextjs&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark"/>
+
+**Backend Development**
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,rails&theme=dark"/>
 
 **Databases & Infrastructure**
 
@@ -60,8 +61,46 @@ I enjoy turning complex problems into practical software from backend systems an
 ---
 
 <h2>
+<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="25" align="center" alt=""/>
+&nbsp; AI-Powered Development
+</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="38" height="38" alt="Cursor"/>
+<br/><strong>Cursor</strong>
+<br/><sub>AI Code Editor</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/claude/D97757" width="38" height="38" alt="Claude"/>
+<br/><strong>Claude Code</strong>
+<br/><sub>AI Coding Agent</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://uxwing.com/codex-icon/">
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/codex-icon.png" width="38" height="38" alt="Codex"/>
+</a>
+<br/><strong>OpenAI Codex</strong>
+<br/><sub>AI Coding Agent</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=vscode" width="38" height="38" alt="VS Code"/>
+<br/><strong>VS Code</strong>
+<br/><sub>Code Editor</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<h2>
 <img src="https://img.icons8.com/fluency/48/layers.png" width="25" align="center" alt=""/>
-&nbsp; Featured Projects
+&nbsp; Things I've Built
 </h2>
 
 <table>
@@ -71,7 +110,7 @@ I enjoy turning complex problems into practical software from backend systems an
 <h3>Blood Axis</h3>
 
 <a href="https://github.com/Shreyas-GN/Blood-Axis">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 An emergency blood coordination platform connecting patients, hospitals, and donors through intelligent matching and coordination workflows.
@@ -86,10 +125,10 @@ An emergency blood coordination platform connecting patients, hospitals, and don
 <h3>SubZero</h3>
 
 <a href="https://github.com/Shreyas-GN/SubZero">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-A subscription management SaaS exploring recurring workflows, automated reminders, background processing, and reliable job execution.
+A subscription management platform featuring recurring workflows, automated reminders, background processing, and reliable job execution.
 
 **Technologies**
 
@@ -103,7 +142,7 @@ A subscription management SaaS exploring recurring workflows, automated reminder
 <h3>PlaceFlow</h3>
 
 <a href="https://github.com/Shreyas-GN/PlaceFlow">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 A campus placement management SaaS designed to streamline recruitment through automated eligibility filtering, student applications, and placement workflows.
@@ -119,60 +158,26 @@ A campus placement management SaaS designed to streamline recruitment through au
 ---
 
 <h2>
-<img src="https://img.icons8.com/fluency/48/combo-chart.png" width="25" align="center" alt=""/>
-&nbsp; GitHub Analytics
-</h2>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shreyas-GN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=FFFFFF"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-GN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF"/>
-
-<br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=Shreyas-GN&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6"/>
-
-</div>
-
----
-
-<h2>
 <img src="https://img.icons8.com/fluency/48/compass.png" width="25" align="center" alt=""/>
-&nbsp; Areas of Interest
+&nbsp; Beyond Code
 </h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Backend_Architecture-181717?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System_Design-6366F1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Artificial_Intelligence-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SaaS_Products-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Developer_Tools-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open_Source-238636?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Entrepreneurship-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Psychology-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Value_Investing-238636?style=for-the-badge"/>
 
 </div>
 
 ---
 
 <h2>
-<img src="https://img.icons8.com/fluency/48/graduation-cap.png" width="25" align="center" alt=""/>
-&nbsp; Education & Experience
-</h2>
-
-**Master of Computer Applications (MCA)**
-
-2024
-
-**Python Developer Intern — CodersCave**
-
-Python development and backend engineering experience.
-
----
-
-<h2>
-<img src="https://img.icons8.com/fluency/48/conference-call.png" width="25" align="center" alt=""/>
-&nbsp; Connect With Me
+<img src="https://img.icons8.com/fluency/48/link.png" width="25" align="center" alt=""/>
+&nbsp; Find Me Online
 </h2>
 
 <div align="center">
@@ -180,13 +185,14 @@ Python development and backend engineering experience.
 <a href="https://github.com/Shreyas-GN">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/">
+
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-Building products, exploring technology, and learning through engineering.
+Building software. Creating products. Making ideas real.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6366F1,50:8B5CF6,100:06B6D4"/>
 
